@@ -25,3 +25,4 @@ class Solution:
             max_area = max(max_area, largestRectangleArea(heights))
         
         return max_area
+
